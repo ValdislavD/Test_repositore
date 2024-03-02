@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/vladi/CLionProjects/untitled13/cmake-build-debug"
+			"value" : "c:/Users/vladi/CLionProjects/new-git-project/Test_repositore/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/vladi/CLionProjects/untitled13/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/vladi/CLionProjects/new-git-project/Test_repositore/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/vladi/CLionProjects/untitled13"
+			"value" : "C:/Users/vladi/CLionProjects/new-git-project/Test_repositore"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "untitled13"
+			"value" : "new-git-project"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1122,6 +1122,42 @@
 			"value" : "TRUE"
 		},
 		{
+			"name" : "new-git-project_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/vladi/CLionProjects/new-git-project/Test_repositore/cmake-build-debug"
+		},
+		{
+			"name" : "new-git-project_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "new-git-project_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/vladi/CLionProjects/new-git-project/Test_repositore"
+		},
+		{
 			"name" : "untitled13_BINARY_DIR",
 			"properties" : 
 			[
@@ -1131,7 +1167,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/vladi/CLionProjects/untitled13/cmake-build-debug"
+			"value" : "C:/Users/vladi/CLionProjects/new-git-project/Test_repositore/cmake-build-debug"
 		},
 		{
 			"name" : "untitled13_IS_TOP_LEVEL",
@@ -1155,7 +1191,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/vladi/CLionProjects/untitled13"
+			"value" : "C:/Users/vladi/CLionProjects/new-git-project/Test_repositore"
 		}
 	],
 	"kind" : "cache",

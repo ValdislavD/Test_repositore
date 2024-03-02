@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.26)
-project(untitled13 C)
+project(new-git-project C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(untitled13 main.c)
+add_executable(new-git-project main.c)
